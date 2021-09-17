@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">A4-CS349</string>
+    <string name="editActivityName">Editing Gesture</string>
+    <string name="title_home">Recognition</string>
+    <string name="title_library">Library</string>
+    <string name="title_addition">Addition</string>
+    <string name="text_clear">Clear</string>
+    <string name="text_add">Add</string>
+    <string name="text_update">Update</string>
+    <string name="element_text"/>
+
+</resources>
