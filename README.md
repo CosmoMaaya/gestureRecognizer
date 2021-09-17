@@ -1,12 +1,7 @@
-Yusu Zhao \
-20761282 y555zhao \
-openjdk version "11.0.10" 2021-01-19 \
-Windows10 (Lenovo Y7000P-1060)
-
 ## specification
 
 ------
-- ###Addition
+- ### Addition
 
   - Users can directly draw a stroke on the screen. Once they've drawn one, they cannot make another stroke until
   they cleared the screen by clicking the "clear" button. Switching to another tab (recognition or library) will not
@@ -18,7 +13,7 @@ Windows10 (Lenovo Y7000P-1060)
     used. We will not check if the name has been used before.
 
 
-- ###Recognition
+- ### Recognition
   
   - To recognize a gesture, user only needs to switch to "Recognition" tab. Users can draw a stroke in the area, and the 
   best three matched will be shown below after users finish drawing (i.e lifting the finger), with a number to indicates 
@@ -29,7 +24,7 @@ Windows10 (Lenovo Y7000P-1060)
     
   - Switching to a different tab will clear any stroke or result in recognition. 
 
-- ###Library
+- ### Library
   
   - Stored gestures are listed here.
   - Edit button will allow user to update a existing gesture, delete button will delete that one.
@@ -38,5 +33,3 @@ Windows10 (Lenovo Y7000P-1060)
     
   - If user doesn't want to make any change, he could either use the back button to exit the activity, or click update and ok(so 
     essentially update again but with exactly the same value)
-
-##ENJOY CUBIC CURVE DRAWING AND HAVE A GOOD DAY!
