@@ -1,5 +1,5 @@
 ## specification
-
+There are three main different panel in this app
 ------
 - ### Addition
 
